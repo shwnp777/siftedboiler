@@ -1,0 +1,89 @@
+#nprogress .bar {
+	height: 3px !important;
+}
+h1,
+h3,
+h4,
+h6 {
+	color: #3d5475;
+}
+
+a {
+	text-decoration: none !important;
+}
+
+.logo-size {
+	width: 80px;
+}
+
+.note-text {
+	color: #888888;
+	font-size: 12px;
+}
+
+.form-cat-div {
+	padding: 5%;
+}
+.cat-tag-divs {
+	border: 1px solid #b8b8b8;
+	border-radius: 10px;
+	max-width: 48%;
+	display: inline-block;
+	margin: 0 auto;
+}
+.cat-tag-divs h4 {
+	text-align: center;
+}
+.align-cat-tag {
+	width: 100%;
+	display: block;
+	margin: 0 auto;
+	padding: 2%;
+}
+
+.ql-editor {
+	min-height: 300px;
+}
+
+/* this is the article cards */
+
+article {
+	display: inline-block;
+	margin: 10px;
+}
+
+.author-info {
+	font-size: 12px;
+	font-weight: 100;
+	color: #9c9c9c;
+	padding: 10px;
+}
+
+p.card-text {
+	font-size: 14px;
+}
+.card-title {
+	color: #3d5475 !important;
+}
+.card-div {
+	display: block;
+	margin: 0 auto;
+}
+.card {
+	border-radius: 5px;
+}
+.card img {
+	border-radius: 5px 5px 0 0;
+}
+
+.article-div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+/* .center-articles {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+} */
